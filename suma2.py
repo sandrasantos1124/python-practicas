@@ -1,10 +1,8 @@
-a=int(input('Escribe el primer numero:'))
-b=int(input('Escribe el segundo:'))
-suma=a+b
-resta=a-b
-multi=a*b
-divi=a/b
+# Clase 4 - Suma con datos que yo escribo
+
+a = int(input("Escriba el primer numero: "))
+b = int(input("Escriba el segundo numero: "))
+
+suma = a + b
+
 print("La suma es:", suma)
-print(f'La resta es: {resta}')
-print("La multiplicación es: ", multi)
-print(f'La división es: {divi}')
