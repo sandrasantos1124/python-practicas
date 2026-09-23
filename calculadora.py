@@ -5,6 +5,6 @@ resta=a-b
 multi=a*b
 divi=a/b
 print("La suma es:", suma)
-print(f'La resta es:{resta}')
-print("La multiplicación es", multi)
-print(f'La división es:{divi}')
+print(f'La resta es: {resta}')
+print("La multiplicación es: ", multi)
+print(f'La división es: {divi}')
